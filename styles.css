@@ -1,0 +1,37 @@
+/* add your CSS here */
+
+/*..beginner fact styling ...*/
+#funfact {
+    font-style: italic;
+}
+
+/*..fact list labels.. */
+.listfact {
+    font-weight: bold;
+}
+
+#factsection {
+    border-style:solid;
+    border-width:thin;
+    border-color:#d5d5d5;
+    padding:10px;
+    width:280px;
+}
+
+.cardouter {
+    width:305px;
+    border-style:solid;
+    border-width:thin;
+    border-color:#a9a9a9;
+    padding:20px;
+    box-shadow: 10px 10px 5px #d5d5d5;
+}
+
+ul {
+    list-style: none;
+    -webkit-padding-start: 0px;
+}
+
+#animalImg{
+    padding-bottom: 10px;
+}
